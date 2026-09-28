@@ -1,0 +1,11 @@
+# 编译产物
+*.exe
+*.o
+*.obj
+*.out
+*.a
+*.so
+*.dll
+
+# 编辑器
+.vscode/
